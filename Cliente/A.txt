@@ -1,0 +1,2 @@
+jun. 22, 2022 5:46:40 A. M. org.jaudiotagger.audio.AudioFile checkFilePermissions
+INFO: Reading file:pathcancion.mp3:abs:G:\Mi unidad\i-2022\laboratorio de sistemas distribuidos\practicas RMI\practica 3\ejemplo a explicar versión 2.0\Cliente\cancion.mp3
